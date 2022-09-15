@@ -1,7 +1,7 @@
 {
 	"name": "vscode-extension-base",
 	"displayName": "vscode-extension-base",
-	"description": "Extension base template to start developing a Visual Studio Code extension",
+	"description": "Minimum base template to start development of a Visual Studio Code extension",
 	"version": "0.0.1",
 	"publisher": "nyqvistatwork",
 	"engines": {
